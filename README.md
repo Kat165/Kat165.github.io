@@ -7,8 +7,5 @@ _Moja pierwsza strona na githubie_
 
 ## Ale na pewno coś fajnego
 
-(~~test~~)
-
-:black_heart:
-
 ```
+## 404 not found
