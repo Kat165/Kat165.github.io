@@ -7,6 +7,8 @@ _Moja pierwsza strona na githubie_
 
 ## Ale na pewno coś fajnego
 
-~~test~~
+(~~test~~)
+
+:black_heart:
 
 ```
