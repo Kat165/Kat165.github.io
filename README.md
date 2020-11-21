@@ -8,4 +8,8 @@ _Moja pierwsza strona na githubie_
 ## Ale na pewno coś fajnego
 
 ```
-## 404 not found
+## ~~404 page not found~~ ##
+
+tu też coś będzie
+
+
